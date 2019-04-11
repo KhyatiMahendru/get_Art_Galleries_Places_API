@@ -1,4 +1,4 @@
-# get_Art_Galleries_Places_API
+# Collect data from Google Places API
 This script was developed by me for my Data Analytics Internship at CSIR-CDRI from December 2017 to July 2018.
 This was created in an attempt to collect contact and location details for art galleries in a country, for multiple countries.
 In this script, I have collected data for art galleries in Malta - which has six provinces. 
